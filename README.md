@@ -1,4 +1,4 @@
-#SRUiProj
+#fullUi
 Project to create the executable for SRui.
 Windows Visual Studio 2019 version.
 Visual Studio 2019 community (free) is needed to compile this project.
